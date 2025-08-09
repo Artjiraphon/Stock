@@ -1,0 +1,9 @@
+{
+  "name": "StockFlow",
+  "short_name": "StockFlow",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#115e59",
+  "icons": []
+}
